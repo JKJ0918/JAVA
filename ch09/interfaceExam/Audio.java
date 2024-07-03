@@ -3,7 +3,7 @@ package ch09.interfaceExam;
 public class Audio implements RemoteControl{
 	// 리모컨 인터페이스를 사용하는 구현체
 	//필드
-	private int volume ; // 숫자로 된 볼륨
+	private int volume ; // 숫자로 된 볼륨	
 	
 	//기본 생성자 : Television tel = new Television();
 	

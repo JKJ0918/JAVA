@@ -10,6 +10,7 @@ public class BirdExam {
 		flamingos.flying();
 		flamingos.sound();
 		
+		
 		System.out.println("---------------------");
 		Fly fly = flamingos; // 업케스팅
 		fly.flying();
