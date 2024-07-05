@@ -3,10 +3,6 @@ package ch14.collection.list;
 public class BoardDTO {
 	// 필드
 	private String subject; // 제목 필드
-	
-
-
-
 	private String content; // 내용
 	private String writer; // 작성자
 

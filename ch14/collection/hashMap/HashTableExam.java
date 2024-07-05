@@ -10,7 +10,7 @@ public class HashTableExam {
 		// 키보드로 입력 받은 id와 pw를 이용한 로그인 성공!!! 테스트
 
 		Map<String, String> login = new Hashtable<>();
-
+//                  ▽-key  ▽-value
 		login.put("kkw1", "1");
 		login.put("kkw2", "12");
 		login.put("kkw3", "123");
